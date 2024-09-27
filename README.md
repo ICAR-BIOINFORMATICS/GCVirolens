@@ -29,22 +29,19 @@ As per the users preference user can use python script GCVirolens_3.py to run th
 # Contact Information
 For further assistance or inquiries, please contact:
 
-Sumeet Kumar Parida
+### Sumeet Kumar Parida
 
-MSc, Center for Post graduate Studies, OUAT, Bhubneshvar
-
+MSc, Center for Post graduate Studies, OUAT, Bhubneshvar; 
 Email: sumeetkumardkl@gmail.com
 
-Dr. Samarth Godara
+### Dr. Samarth Godara
 
-Scientist, ICAR-IASRI, New Delhi-110012
-
+Scientist, ICAR-IASRI, New Delhi-110012; 
 Email: samarth.godara@icar.gov.in
 
-Dr. Shbana Begam 
+### Dr. Shbana Begam 
 
-Scientist, ICAR-NIPB, New Delhi-110012
-
+Scientist, ICAR-NIPB, New Delhi-110012; 
 Email: shbana.begam@icar.gov.in
 
 
