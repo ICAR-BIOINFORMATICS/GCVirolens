@@ -14,6 +14,7 @@ GCVirolens is a window based GUI application that can be download using the prov
     https://drive.google.com/file/d/16s7fNgHVdPpnDuAsjuIkgLR-W92xgg9U/view
 
 Open the Software by double click 
+      
         Step 1: Browse and select the reference genome file (Fasta) of targeted virus
         
         Step 2: Browse and select the reference annotation file (GFF) of the respevctive virus
