@@ -7,8 +7,8 @@ GCVirolens tool is a standalone Windows-based bioinformatics software developed 
         https://github.com/ICAR-BIOINFORMATICS/GCVirolens.git
 
 
-### Guideline to Use the GCVirolens
-
-# Download the GUI GCVirolens Software 
+## Guideline to Use the GCVirolens
+GCVirolens 
+### Download the GUI GCVirolens Software 
 
     https://drive.google.com/file/d/16s7fNgHVdPpnDuAsjuIkgLR-W92xgg9U/view
