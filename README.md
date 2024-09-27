@@ -23,3 +23,28 @@ Open the Software by double click
 
 Resulted output save in CSV format 
 
+As per the users preference user can use python script GCVirolens_3.py to run the software and it open the software
+
+
+# Contact Information
+For further assistance or inquiries, please contact:
+
+Sumeet Kumar Parida
+
+MSc, Center for Post graduate Studies, OUAT, Bhubneshvar
+
+Email: sumeetkumardkl@gmail.com
+
+Dr. Samarth Godara
+
+Scientist, ICAR-IASRI, New Delhi-110012
+
+Email: samarth.godara@icar.gov.in
+
+Dr. Shbana Begam 
+
+Scientist, ICAR-NIPB, New Delhi-110012
+
+Email: shbana.begam@icar.gov.in
+
+
