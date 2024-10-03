@@ -31,7 +31,7 @@ For further assistance or inquiries, please contact:
 
 ### Sumeet Kumar Parida
 
-MSc, Centre for Post Graduate Studies, OUAT, bhubaneswar; 
+MSc, Centre for Post Graduate Studies, OUAT, Bhubaneswar; 
 Email: sumeetkumardkl@gmail.com
 
 ### Dr. Samarth Godara
