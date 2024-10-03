@@ -1,5 +1,6 @@
 # GCVirolens
-Gene-wise GC content Analysis of Virus Genome 
+A Graphical Tool for Investigating Gene-Level GC Content Dynamics in Viral Genomes
+(Gene-wise GC content Analysis of Viral Genome)
 
 GCVirolens, a GUI-based software to extract the GC content variations among the genes of the input virus genomes.
 GCVirolens tool is a standalone Windows-based bioinformatics software developed in Python that is publicly available at github_link.
@@ -31,7 +32,7 @@ For further assistance or inquiries, please contact:
 
 ### Sumeet Kumar Parida
 
-MSc, Centre for Post Graduate Studies, OUAT, Bhubaneswar; 
+MSc., Centre for Post Graduate Studies, OUAT, Bhubaneswar; 
 Email: sumeetkumardkl@gmail.com
 
 ### Dr. Samarth Godara
