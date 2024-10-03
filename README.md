@@ -11,7 +11,7 @@ GCVirolens is a window based GUI application that can be download using the prov
 
 ### Download the GUI GCVirolens Software 
 
-        [https://github.com/ICAR-BIOINFORMATICS/GCVirolens.git](https://drive.google.com/file/d/1kG5vrySS1qIiY2blAOkYl0lqpvEM68XN/view?usp=drive_link)
+        https://drive.google.com/file/d/1kG5vrySS1qIiY2blAOkYl0lqpvEM68XN/view?usp=drive_link
 
 Open the Software by double click 
       
