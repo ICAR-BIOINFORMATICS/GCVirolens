@@ -12,7 +12,7 @@ GCVirolens is a window based GUI application that can be download using the prov
 
 ### Download the GUI GCVirolens Software 
 
-        https://drive.google.com/file/d/1kG5vrySS1qIiY2blAOkYl0lqpvEM68XN/view?usp=drive_link
+        https://drive.google.com/file/d/130DdgyBSfhWckR319-Xc-MPloDIK6he_/view?usp=drive_link
 
 Open the Software by double click 
       
